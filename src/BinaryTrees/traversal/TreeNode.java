@@ -1,4 +1,4 @@
-package BinaryTrees;
+package BinaryTrees.traversal;
 
 public class TreeNode {
 
