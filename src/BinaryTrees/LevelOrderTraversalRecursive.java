@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class LevelOrderTraversal {
+public class LevelOrderTraversalRecursive {
     public List<List<Integer>> levelorder(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<TreeNode>();
         List<List<Integer>> wrapList = new LinkedList<List<Integer>>();
